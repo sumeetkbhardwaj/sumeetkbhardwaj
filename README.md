@@ -28,7 +28,7 @@ const sumeet = {
     name: "Sumeet Kumar",
     location: "Gurgaon, Haryana, India",
     currentStatus: "Solopreneur",
-    sumamry: "Seasoned engineer with a strong track record in designing and scaling high-performance microservices",
+    summary: "Seasoned engineer with a strong track record in designing and scaling high-performance microservices",
              "leading teams, and delivering measurable impact. Previously Technical Lead at Paytm",
              "now a solopreneur helping startups and teams ship production-grade systems and level up engineering practices.",
     expertise: ["Tech Leadership", "System Architecture", "Full-Stack Development"],
