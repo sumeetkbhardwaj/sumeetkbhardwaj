@@ -33,7 +33,7 @@ const sumeet = {
              "now a solopreneur helping startups and teams ship production-grade systems and level up engineering practices.",
     expertise: ["Tech Leadership", "System Architecture", "Full-Stack Development"],
     availability: "Open to consulting & fractional leadership",
-    experience: "7+ years",
+    experience: "8+ years",
     previousRole: "Technical Lead at Paytm",
     services: {
         techLead: "Leading development teams with proven methodologies",
