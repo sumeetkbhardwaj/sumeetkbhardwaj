@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=600&height=40&lines=Hi%2C+I'm+Sumeet+Kumar!;Technical+Lead+%26+Solopreneur;7%2B+Years+Experience;Available+for+Consulting;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=600&height=40&lines=Hi%2C+I'm+Sumeet+Kumar!;Technical+Lead+%26+Solopreneur;8%2B+Years+Experience;Available+for+Consulting;Let's+Build+Something+Amazing+%F0%9F%9A%80" alt="Typing SVG" /></a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-blueviolet?style=for-the-badge&logo=github" alt="Experience">
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-blueviolet?style=for-the-badge&logo=github" alt="Experience">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=for-the-badge&logo=code" alt="Focus">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Consulting-brightgreen?style=for-the-badge&logo=checkmarx" alt="Status">
    <img alt="Location" src="https://img.shields.io/badge/Location-Gurgaon%2C%20India-3b82f6?style=for-the-badge">
